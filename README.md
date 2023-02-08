@@ -1,7 +1,6 @@
 - 👋 Hi, I'm Dima.
 - 👀 I’m interested in drug discovery, biotech and how modeling can help
-- 🌱 I’m currently learning machine learning, pytorch and physiology 
-- 💞️ I’m looking to collaborate on drug discovery related projects
+- 🌱 I’m currently learning machine learning and math
 - 📫 How to reach me: email knawell@gmail.com
 
 <!---
