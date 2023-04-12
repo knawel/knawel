@@ -1,7 +1,5 @@
-- 👋 Hi, I'm Dima.
+- 👋 Dima from Wroclaw
 - 👀 I’m interested in drug discovery, biotech and how modeling can help
-- 🌱 I’m currently learning machine learning and math
-- 📫 How to reach me: email knawell@gmail.com
 
 <!---
 knawel/knawel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
